@@ -8,7 +8,7 @@ I am a passionate web developer with 1 year of experience in building responsive
 
 - 🌐 **Website:** [Portfolio](https://gdev-portfolio.netlify.app/)
 - 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/gaurav-dev-031a65141/)
-- 📧 **Email:** [Email](subhamkr1995dob@gmail.com)
+- 📧 **Email:** [subhamkr1995dob@gmail.com]
 
 ### 🛠️ Technical Skills
 
