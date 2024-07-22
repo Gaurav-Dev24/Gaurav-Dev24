@@ -17,14 +17,6 @@ I am a passionate web developer with 1 year of experience in building responsive
 - **Tools & Platforms:** Git, GitHub, VSCode, Netlify, Vercel
 - **UI/UX:** Responsive Design, Figma, Adobe XD
 
-## 💼 Projects
 
-### 1. **[Shopping Cart]**
-
-- **Description:** A Shopping Cart, using context API for state management.
-- **Tech Stack:** React, JavaScript, Tailwind CSS
-- **Features:** Responsive design, dynamic content, API integration, State Management
-- **Demo:** [Live Demo](https://gdev-shopping-cart.netlify.app/)
-- **Code:** [GitHub Repository](https://github.com/Gaurav-Dev24/Shopping-Cart-Project)
 
 
