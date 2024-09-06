@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I am a passionate **web developer** with **1 year** of experience in building **responsive**, **interactive**, and **modern web applications** using **React**, **JavaScript**, and **Tailwind CSS**. My mission is to create visually appealing and user-friendly web solutions that enhance user experience and meet business goals.
+I am a passionate **web developer** with **1 year** of experience in building **responsive**, **interactive**, and **modern web applications** using **React**, **JavaScript**, **Bootstrap**, and **Tailwind CSS**. My mission is to create visually appealing and user-friendly web solutions that enhance user experience and meet business goals.
 
 ### 🌸 Current Project
 
@@ -32,6 +32,7 @@ I am currently working on **Phoolwalee**, an online flower delivery app based on
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=TailwindCSS&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" alt="jQuery" />
 </p>
 
 #### **State Management**  
