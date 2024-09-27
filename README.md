@@ -35,6 +35,12 @@ I am currently working on **Phoolwalee**, an online flower delivery app based on
   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" alt="jQuery" />
 </p>
 
+---
+
+[![An image of @gauravdev24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravdev24)](https://holopin.io/@gauravdev24)
+
+---
+
 #### **State Management**  
 <p align="left">
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white" alt="Redux" />
@@ -76,7 +82,5 @@ I am currently working on **Phoolwalee**, an online flower delivery app based on
 </p>
 
 ---
-
-[![An image of @gauravdev24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravdev24)](https://holopin.io/@gauravdev24)
 
 ### 🚀 Let's Build Something Amazing Together! 🚀
