@@ -65,7 +65,7 @@ I am currently working on **Phoolwalee**, an online flower delivery app based on
 
 ---
 
-[![An image of @gauravdev24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravdev24)](https://holopin.io/@gauravdev24)
+
 
 ---
 
