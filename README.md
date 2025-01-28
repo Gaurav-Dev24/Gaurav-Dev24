@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I am a passionate **web developer** with **1 year** of experience in building **responsive**, **interactive**, and **modern web applications** using **React**, **JavaScript**, **Bootstrap**, and **Tailwind CSS**. My mission is to create visually appealing and user-friendly web solutions that enhance user experience and meet business goals.
+I am a passionate **web developer** with **1.5 year** of experience in building **responsive**, **interactive**, and **modern web applications** using **React**, **JavaScript**, **Bootstrap**, and **Tailwind CSS**. My mission is to create visually appealing and user-friendly web solutions that enhance user experience and meet business goals.
 
 ### 🌸 Current Project
 
