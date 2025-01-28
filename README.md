@@ -70,8 +70,6 @@ I am currently working on **Phoolwalee**, an online flower delivery app based on
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-Dev24&show_icons=true&theme=radical" alt="Gaurav's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-Dev24&theme=radical" alt="Gaurav's GitHub Streak" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Dev24&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
