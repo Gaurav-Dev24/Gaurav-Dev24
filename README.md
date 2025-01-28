@@ -65,12 +65,6 @@ I am currently working on **Phoolwalee**, an online flower delivery app based on
 
 ---
 
-
-
----
-
----
-
 ### 💻 My GitHub Stats
 
 <p align="center">
